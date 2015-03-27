@@ -4,7 +4,7 @@ A cascading job / task list whereby you can prioritise and collaborate with mult
 # Demo
 See the demo at quartztaskmanager.com
 
-[Try **live demo**](http://pornel.net/slip/) (best on a touchscreen device)
+[Try **live demo** quartztaskmanger.com](http://quartztaskmanager.com/) (At the moment you'll need to create an account.)
 
 ## TODO
 
